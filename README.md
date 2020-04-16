@@ -14,6 +14,7 @@ Make sure to delete your notebook once your done.
 Have a GCP account (Google Cloud Platform) 
 * If you don't it can be created here https://cloud.google.com/
 * As of making this they offer a 1-year $300 credit to use their services for free.
+* You may need to go into your IAM & Admin's Quota page(This can be found by searching IAM or quota in the search bar) and request to increase the for whatever GPU and region you are using. Google typically increases mine within 30 seconds of requesting.
 
 Have a Kaggle Account
 * https://www.kaggle.com/
